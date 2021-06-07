@@ -15,13 +15,22 @@ body{
 
 .screen{
     background-color: grey;
-    width: 90%;
+    width: 91%;
     height: 10%;
     margin:auto;
     left: 5%;
     top: 5%;
     position:absolute;
     border-radius: 100px;
+    padding-right: 10px;
+
+    line-height: 50px;
+    text-align: right;
+    text-transform: uppercase;
+	font-size: 2.6em;
+	font-family: "Work Sans", sans-serif;
+	font-weight: 500;
+	letter-spacing: 0.04em;
 }
 .buttons{
     width: 90%;
