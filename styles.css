@@ -15,10 +15,10 @@ body{
 
 .screen{
     background-color: grey;
-    width: 91%;
+    width: 92%;
     height: 10%;
     margin:auto;
-    left: 5%;
+    left: 3.25%;
     top: 5%;
     position:absolute;
     border-radius: 100px;
@@ -67,7 +67,9 @@ body{
 	font-weight: 500;
 	letter-spacing: 0.04em;
 }
-
+#operator{
+    background-color: red;
+}
 .num{
     display: block;
     float: left;
